@@ -1,7 +1,7 @@
 # LabviewChat
 UDP chat service for labview
 
-TODO:
-Add centrally managed server for handshaking
-fix formatting of chat window
-allow for enter to send message
+##TODO:
+1. add centrally managed server for handshaking 
+2. fix formatting of chat window 
+3. allow for enter to send message 
